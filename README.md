@@ -1,7 +1,7 @@
 # SupersStore-Sales-annual-report
 
 ##  Objective
-The main objective is i wanted to create a superstore annual report for year 2022 so the superstore  can understand the customer sales and with that annual report how they can improve their sales in future 
+The main objective is i wanted to create a superstore annual report  so the superstore  can understand the customer sales and with that annual report how they can improve their sales in future 
 
 ## Sample Questions
 1)Compare the sales and orders using single chart 
